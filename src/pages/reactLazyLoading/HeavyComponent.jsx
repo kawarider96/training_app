@@ -1,10 +1,10 @@
 import { Typography } from "@mui/material";
 
 
-export function HeavyComponent() {
+export default function HeavyComponent() {
     return (
         <>
-        <Typography>HEAVY COMPONENT</Typography>
+        <Typography>EZ EGY NEHÉZ KOMPONENS AMIT SOKÁIG TART BETÖLTENI</Typography>
         </>
     )
 }
